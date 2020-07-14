@@ -1,1 +1,4 @@
 
+Class Person
+end
+
